@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EntityFrameworkChuckNorrisExercise": {
+      "commandName": "Project",
+      "commandLineArgs": "100"
+    }
+  }
+}
